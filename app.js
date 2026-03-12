@@ -1,6 +1,6 @@
 function add(a,b){
   return a+b;
 }
-add
+add node
 module.exports = add;
 
